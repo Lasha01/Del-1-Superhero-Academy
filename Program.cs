@@ -32,6 +32,7 @@ namespace Del_1_Superhero_Academy
             Console.ReadLine();
 
         }
+        /*
         int ChooseHero(string message)
         {
             int choice = 1;
@@ -44,6 +45,7 @@ namespace Del_1_Superhero_Academy
                 }
             }
         }
+        */
     }
 }
 
